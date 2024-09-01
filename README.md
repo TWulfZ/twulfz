@@ -1,9 +1,9 @@
 # 💫 About Me:
 # 🔭 I’m currently working on
-- 👁 Voto-Web-CNE (React app | TypeScript)
+- ✅ Voto-Web-CNE (React app | TypeScript)
 - 🚨 Ecualert (Java Mobile app with NoSQL BBD)
 - ➡  Arow Fun Snippets (VSC extension for js/jsx/ts/tsx)
-- 🐈 WordScript (Tauri Desktop React App | Typescript)
+- 📜 WordScript (Tauri Desktop React App | Typescript)
 - 🎮 Tetricord (Tetris game on Discord Activities)
 
 # 🌱 I’m currently learning to be a Full Stack developer
