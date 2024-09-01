@@ -1,10 +1,9 @@
 # 💫 About Me:
 # 🔭 I’m currently working on
-- 👁 JapVision (React Native app | TypeScript)
+- 👁 Voto-Web-CNE (React app | TypeScript)
 - 🚨 Ecualert (Java Mobile app with NoSQL BBD)
 - ➡  Arow Fun Snippets (VSC extension for js/jsx/ts/tsx)
-- 🎨 Drawhen (React app multiplayer using Web Socket)
-- 🐈 MultiKat (Multimedia editor bot for Discord | Typescript)
+- 🐈 WordScript (Tauri Desktop React App | Typescript)
 - 🎮 Tetricord (Tetris game on Discord Activities)
 
 # 🌱 I’m currently learning to be a Full Stack developer
