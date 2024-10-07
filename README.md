@@ -1,6 +1,6 @@
 # 💫 About Me:
 # 🔭 I’m currently working on
-- ✅ Voto-Web-CNE (React app | TypeScript)
+- ✅ Voto-Web-CNE (React app | NestJS | Mail server | Docker)
 - 🚨 Ecualert (Java Mobile app with NoSQL BBD)
 - ➡  Arow Fun Snippets (VSC extension for js/jsx/ts/tsx)
 - 📜 WordScript (Tauri Desktop React App | Typescript)
