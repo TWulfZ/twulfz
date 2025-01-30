@@ -1,12 +1,12 @@
 # 💫 About Me:
-# 🔭 I’m currently working on
-- ✅ Voto-Web-CNE (React app | NestJS | Mail server | Docker)
+# 🔭 I’ve been working on
+- ✅ Voto-Web-CNE (React | NestJS | Mail server | Docker)
 - 🚨 Ecualert (Java Mobile app with NoSQL BBD)
 - ➡  Arow Fun Snippets (VSC extension for js/jsx/ts/tsx)
 - 📜 WordScript (Tauri Desktop React App | Typescript)
-- 🎮 Tetricord (Tetris game on Discord Activities)
 
-# 🌱 I’m currently learning to be a Full Stack developer
+# 👩‍💻 I’m a Full Stack developer
+# 🌱 I'm learning & researching Data Science
 
 
 ## 🌐 Socials:
